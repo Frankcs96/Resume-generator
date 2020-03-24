@@ -1,0 +1,24 @@
+>>>name
+Francisco Carmona
+>>>telephone
+555123456
+>>>email
+francisco@gmail.com
+>>>interests
+Movies
+Foo fighters
+All kind of sports
+>>>skills
+java
+html
+css
+C++
+Angular
+>>>education
+IES Campanillas FP
+IES el palo bachillerato
+>>>experience
+Intern as a software developer in amazon
+Software engineer at google.
+>>>about
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis enim asperiores deserunt nihil consequuntur at maiores officia sit corporis fuga itaque doloremque tenetur quod sint minima, quasi labore quidem perspiciatis!

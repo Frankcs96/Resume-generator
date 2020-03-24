@@ -1,2 +1,14 @@
 # Resume-generator
-Resume generator in html with a txt file
+Generador de curriculum mediante ciertos parametros en un txt.
+
+## Formato del archivo de texto
+
+El formato del txt sera el siguiente
+
+![](screenshots/txt.png)
+
+## resultado
+
+
+![](screenshots/resume.png)
+
