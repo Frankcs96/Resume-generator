@@ -37,6 +37,8 @@ public class App {
           + "  <br><br>\n"
           + "  <h1>Resume</h1>\n"
           + "  <h2>" + name + "</h2>\n"
+          + "  <h3>" + telephone + "</h3>"
+          + "  <h3>" + email + "</h3>"
           + "  <hr />\n"
           + "  <br>\n"
           + "  <p class=\"head\">Interests</p>\n"
